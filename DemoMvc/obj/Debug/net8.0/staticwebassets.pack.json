@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Net_Core_API\\DemoMvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DemoMvc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DemoMvc.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DemoMvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DemoMvc.props",
+      "PackagePath": "build\\DemoMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DemoMvc.props",
+      "PackagePath": "buildMultiTargeting\\DemoMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DemoMvc.props",
+      "PackagePath": "buildTransitive\\DemoMvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

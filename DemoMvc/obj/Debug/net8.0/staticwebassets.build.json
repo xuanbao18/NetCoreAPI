@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Hash": "UhK8vUCIM5BYRVV26mQAUAYL8LeWtbUEzY2J4vthBDQ=",
+  "Source": "DemoMvc",
+  "BasePath": "_content/DemoMvc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "E:\\Net_Core_API\\DemoMvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DemoMvc.styles.css",
+      "SourceId": "DemoMvc",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Net_Core_API\\DemoMvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/DemoMvc",
+      "RelativePath": "DemoMvc.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Net_Core_API\\DemoMvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DemoMvc.styles.css"
+    },
+    {
+      "Identity": "E:\\Net_Core_API\\DemoMvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DemoMvc.bundle.scp.css",
+      "SourceId": "DemoMvc",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Net_Core_API\\DemoMvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/DemoMvc",
+      "RelativePath": "DemoMvc.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Net_Core_API\\DemoMvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DemoMvc.bundle.scp.css"
+    }
+  ]
+}
